@@ -6,7 +6,7 @@ When I’m not coding, I like reading books, blogs, and notes on various topics 
 
 Ya, that’s all for now. And welcome to my [digital garden](https://binovarghese.com/) for more. You can also can reach me at [X](https://twitter.com/binovarghese_), [Linkedin](https://www.linkedin.com/in/binovarghese-/) or [Instagram](https://www.instagram.com/binovarghese_/).
 
-#### Digital garden pages
+#### Digital garden pages:
 📝 Writing [long essays](https://binovarghese.com/blog) about tech and things I learned [today](https://binovarghese.com/notes/).  
 ✒️ Sharing my [reflections](https://binovarghese.com/desk/) about everything I interested.  
 🕸️ Collection of [notes and links](https://binovarghese.com/collections/) from the Web community.  
