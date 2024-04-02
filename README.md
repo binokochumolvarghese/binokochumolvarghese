@@ -8,5 +8,4 @@ Ya, that’s all for now. And welcome to my [digital garden](https://binovarghes
 
 #### Digital garden pages:
 📝 Writing [long essays](https://binovarghese.com/blog) about tech and things I learned [today](https://binovarghese.com/notes/).  
-✒️ Sharing my [reflections](https://binovarghese.com/desk/) about everything I interested.  
-🕸️ Collection of [notes and links](https://binovarghese.com/collections/) from the Web community.  
+✒️ Sharing my [reflections](https://binovarghese.com/desk/) about everything I interested.
